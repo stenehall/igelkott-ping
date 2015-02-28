@@ -8,3 +8,4 @@ Ping.prototype.pong = function pong(message) {
 };
 
 exports.Plugin = Ping;
+
